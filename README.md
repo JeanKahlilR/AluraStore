@@ -9,5 +9,13 @@
 * O Desafio consiste em ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo empreendimento. Para isso sera feito a analise dos dados de vendas,
   desempenho e avaliações das 4 lojas ficticias da Alura Store. O objetivo é identificar a loja com menor eficiencia e apersentrar uma recomendação baseada nos dados.
 
+# Analises
+
+* Faturamento Total de Cada Loja
+* Vendas Por Categoria
+* Média de Avaliação Por Loja
+* Produto mais e menos vendido
+* Fréte Médio Por Loja
+
 
 
