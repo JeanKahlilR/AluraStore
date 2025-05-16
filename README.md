@@ -17,6 +17,10 @@
 * Produto mais e menos vendido
 * Fréte Médio Por Loja
 
+# Atividade Extra (Opcional)
+
+* Gerar um grafico de dispersão ou mapa de calor para visualizar os dados e identificar áreas com maior concentração de vendas.
+
 # Tecnologias
 
 ![Python 3.12](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
