@@ -9,7 +9,7 @@
 * O Desafio consiste em ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo empreendimento. Para isso sera feito a analise dos dados de vendas,
   desempenho e avaliações das 4 lojas ficticias da Alura Store. O objetivo é identificar a loja com menor eficiencia e apresentrar uma recomendação baseada nos dados.
 
-# Analises
+# Análises
 
 * Faturamento Total de Cada Loja
 * Vendas Por Categoria
@@ -17,5 +17,8 @@
 * Produto mais e menos vendido
 * Fréte Médio Por Loja
 
+# Tecnologias
+
+![Python 3.12](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
 
