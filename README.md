@@ -1,6 +1,7 @@
 <h1 align="center"> Challenge Alura Store </h1>
 
-![Badge concuido](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge) ![Autor](https://img.shields.io/badge/Autor-Jean%20K.%20Ribeiro-blue)
+![Badge concuido](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge) 
+![Autor](https://img.shields.io/badge/Autor-Jean%20K.%20Ribeiro-blue)
 
 # Descrição
 
