@@ -1,5 +1,7 @@
 <h1 align="center"> Challenge Alura Store </h1>
 
+![Badge concuido](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
+
 # Descrição
 
 * O projeto Challenge Alura Store é um desafio proposto aos estudantes da Formação Cientista de Dados da Alura em Parceria com a Oracle do Projeto ONE - Oracle Next Education.
